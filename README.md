@@ -5,7 +5,7 @@
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-5.4.10-646CFF.svg?logo=vite)](https://vitejs.dev/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.11.17-0055FF.svg?logo=framer)](https://www.framer.com/motion/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 * **Live Demo:** [https://stateful-motion-button.vercel.app](https://stateful-motion-button.vercel.app)
 * **GitHub Repository:** [https://github.com/arpita0630/stateful-motion-button](https://github.com/arpita0630/stateful-motion-button)
